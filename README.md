@@ -1,9 +1,8 @@
 # About me 😃
-Hello, I'm Yury Garkavy, MSU medical student, work as a Java Backend Developer. Also work with Python Django, Flask, React.js and Android.
+Hello, I'm Yury Garkavy, MD and currently Yandex Android Developer
 # Interests 👀
 - Medicine 🏥
 # I’m currently learning 🌱
-- Machine Learning applied to medicine
-- Android development
+- DevOps, K8S, Ceph, Prometheus and so on
  # Contacts 📫
 - LinkedIn – https://www.linkedin.com/in/yury-garkavyy-6b687b1b4/
